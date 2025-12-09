@@ -1,6 +1,6 @@
 {
   "name": "@schlenks/jest-progress-bar-reporter",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Progress bar reporter for Jest (actively maintained fork)",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
